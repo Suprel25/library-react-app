@@ -297,7 +297,6 @@ HIGHLIGHTS
 
 #highlights:after,
 #highlights:before {
-  background: url("/Users/suprelsimmons/Desktop/Fes Projects/library-react-tutorial/src/assets/wave.svg");
   content: "";
   position: absolute;
   width: 101vw;
