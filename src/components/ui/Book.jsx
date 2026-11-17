@@ -69,5 +69,3 @@ useEffect(() =>{
 
 export default Book;
 
-{/* <FontAwesomeIcon icon={faStar} />
-<FontAwesomeIcon icon={faStarHalfAlt} /> */}

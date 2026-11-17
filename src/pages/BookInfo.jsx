@@ -1,6 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowLeft, faStar } from "@fortawesome/free-solid-svg-icons";
-import React, { useState } from "react";
+import { faArrowLeft,} from "@fortawesome/free-solid-svg-icons";
 import { Link, useParams } from "react-router-dom";
 import Rating from "../components/ui/Rating";
 import Price from "../components/ui/Price";
